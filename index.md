@@ -1,95 +1,119 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
-# Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
-# To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+title: Michelle Krejci (Craychee)
+full_name: Michelle Krejci
+github_url: https://github.com/craychee/workwithme.guide-myguide/
+picture: ./profile.jpeg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+- I value **co-creation** above all else. I want to ensure that you feel I 
+    [yes-and](https://99u.adobe.com/articles/7183/the-yes-and-approach-less-ego-more-openness-more-possibility) you and
+feel like you are yes-and-ing me in turn. No lone wolves. No heroes.
+- I aspire to be **conscientious**. I want to do what I say I will do with care.
+- I aspire to **invite curiosity** first into the new or unknown rather than
+    respond with skepticism.
+- The expression of **feelings and needs** are as important to me as the
+    expression of ideas. I believe most problems in the software development
+    cycle are due to a failure to properly express these other aspects.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+- I am **commanding**. I care about forward progress and am willing to make
+    decisions and establish collaboration and enthusiasm around that decision.
+- I absorb lots of **inputs** (colleague opinions, research, experience) and love to **ideate** about high level strategy. Give me some data and I will give you an idea.
+- I do not suffer silently. I **express my needs frankly** and expect others to do
+    the same.
+- I make great efforts to **bring lightness** into my work. I try to laugh whenever
+    I can and find opportunities to be silly together.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+- Feedback helps me to thrive. The sooner I hear it, the better. A piece of feedback sounds
+    something like "When I have seen you Y, then X."
+- Judgement does not help me thrive. A judgement is something like "you are
+    X".
+- I _prefer_ that feedback is a two-way communication rather than an air-drop.
+- I _prefer_ for that communication to be in the style of [connected
+    communication](http://www.communicationdojo.com/connected-conversation-process-instructional-video/).
+- Having my work be seen, understood, and evaluated is gratifying. If it is
+    also then worthy of positive comment, even more.
 
 ## Work Patterns
 
-What hours do you usually work?
-
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+- I _struggle_ to **pair program** but _aspire_ to do it more.
+- I like to plan out my work day first thing when I get up and stick to that
+    plan.
+- I go to the gym in the mornings and am usually at work by 9:30am.
+- When I need time to put things together, I like to go for a walk or a run.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
-
-
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+- If I have headphones on, please ping me on Slack rather than walk up to me.
+- If we are in conflict, let's talk face to face.
+- In meetings, I prefer to know if it's an ideation meeting, a consensus
+    building meeting, an action planning meeting, a reflection meeting, or
+    a status meeting. I do not like to have multiple types of meetings at once.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+- If I say that I am "uncomfortable" then I am.
+- When I am having trouble holding still, I am not in a "flow" state and am
+    trying to find a path forward.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+- If I say I am uncomfortable, I want to be engaged in what's happening for me
+    since I will not be productive or engaged until I am comfortable.
+- Rubber ducking with me helps when I am stuck.
+- Giving me alone time and space to process also helps.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+- You know that feeling right before a test in school when you just crammed
+    a bunch of information last-minute into your brain and you need to hold it
+    all there carefully like a house of cards before you get through the test
+    otherwise you will loose it all? I feel like that most of the time and
+    avoid people when I am trying to hold my fragile understanding of something
+    in my head.
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+- I do not like when people hoarde work or start a project secretly. See above
+    value of "co-creation".
+- I do not respond well to avoidance and passive aggressiveness. It triggers
+    deep pain.
+- Verabalizations, gestures, and noises that convey "yep, got it! next" shut me
+    down in an unpleasant way.
 
 ## Career Goals & Future Interests
 
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+- Short term: fully realize the service strategy that will allow us to scale
+    the team and product's vision while stabalizing our APIs.
+- Long term: be a part of higher-level strategy around scaling tech and
+    culture. Ultimately, a COO. Also, write a book.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+- I do not respond with curiosity the way I would like. I am working on it.
+- Details
+- My focus is all over the place. I can't decide if I should put my energy into
+    building things or planning and describing things.
+- I have not found a way to collaborate with groups outside of engineering.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+- Star Trek
+- Living in community and community structures
+- My writing
+- My comedy
+- Things that have helped my personal growth
