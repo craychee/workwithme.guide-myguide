@@ -79,7 +79,7 @@ feel like you are yes-and-ing me in turn. No lone wolves. No heroes.
 - You know that feeling right before a test in school when you just crammed
     a bunch of information last-minute into your brain and you need to hold it
     all there carefully like a house of cards before you get through the test
-    otherwise you will loose it all? I feel like that most of the time and
+    otherwise you will lose it all? I feel like that most of the time and
     avoid people when I am trying to hold my fragile understanding of something
     in my head.
 
@@ -88,17 +88,17 @@ feel like you are yes-and-ing me in turn. No lone wolves. No heroes.
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-- I do not like when people hoarde work or start a project secretly. See above
+- I do not like when people horde work or start a project secretly. See above
     value of "co-creation".
 - I do not respond well to avoidance and passive aggressiveness. It triggers
     deep pain.
-- Verabalizations, gestures, and noises that convey "yep, got it! next" shut me
+- Verbalizations, gestures, and noises that convey "yep, got it! next" shut me
     down in an unpleasant way.
 
 ## Career Goals & Future Interests
 
 - Short term: fully realize the service strategy that will allow us to scale
-    the team and product's vision while stabalizing our APIs.
+    the team and product's vision while stabilizing our APIs.
 - Long term: be a part of higher-level strategy around scaling tech and
     culture. Ultimately, a COO. Also, write a book.
 
