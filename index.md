@@ -71,7 +71,7 @@ feel like you are yes-and-ing me in turn. No lone wolves. No heroes.
 
 - If I say I am uncomfortable, I want to be engaged in what's happening for me
     since I will not be productive or engaged until I am comfortable.
-- Rubber ducking with me helps when I am stuck.
+- [Rubber ducking](https://rubberduckdebugging.com/) with me helps when I am stuck.
 - Giving me alone time and space to process also helps.
 
 ## Me Being Me
